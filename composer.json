@@ -1,5 +1,5 @@
 {
-  "name": "ezsystems/ezplatform-admin-ui-assets",
+  "name": "se7enxweb/ezplatform-admin-ui-assets",
   "description": "External assets dependencies for EzPlatform AdminUI",
   "license": "GPL-2.0",
   "authors": [
@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "symfony/symfony": "^3.4@beta"
+    "se7enxweb/symfony": "^3.4@beta"
   },
   "autoload": {
     "psr-4": {
